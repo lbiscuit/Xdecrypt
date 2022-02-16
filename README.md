@@ -1,6 +1,7 @@
 # Xdecrypt
 
-Xshell Xftp password decrypt
+Xshell Xftp 密码解密查看
+长时间通过软件保存的密码自动连接, 久了就忘了 
 
 ## Setup
 ```
